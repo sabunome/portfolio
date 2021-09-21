@@ -1,4 +1,4 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://sabunome.github.io/portfolio"
 languageCode: "en-us"
 title: "Hugo-profile"
 theme: "./.."
