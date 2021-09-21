@@ -42,7 +42,7 @@ params:
 
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Profiles, a passionate web developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+  descripe_l1_person: "Hi, I am a profile for an iSchool student.  I may be representing a librarian, data scientist, archivist, user researcher, records manager, public policy worker, academic, or any of the innumerable occupations represented in information work."
   descripe_l2_person: "This is a example template for about section. You can find my works [here](#projects)"
   skills:
     - name: CSS
