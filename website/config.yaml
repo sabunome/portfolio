@@ -1,4 +1,4 @@
-baseURL: "https://sabunome.github.io/portfolio/"
+baseURL: "https://sabunome.github.io"
 languageCode: "en-us"
 title: "Hugo-profile"
 theme: "./.."
